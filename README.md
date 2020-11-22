@@ -14,13 +14,13 @@ A partir da ideia de um modelo transacional básico. Contrua um modelo multidime
   
 ### Dimensões  
 
-**nm_fornecedor**: Quem fornece o produto;
-**cidade_fornecedor**: A cidade em que o fornecedor se encontra;
-**uf_fornecedor**: O estado onde o fornecedor se encontra;
-**nm_mercadoria**: Nome do produto;
+**nm_fornecedor**: Quem fornece o produto;  
+**cidade_fornecedor**: A cidade em que o fornecedor se encontra;  
+**uf_fornecedor**: O estado onde o fornecedor se encontra;  
+**nm_mercadoria**: Nome do produto;  
 **nm_filial**: Nome da fiial que vai receber o produto;
 
 
 ### Medidas
 
-**qtd**: Quatidade
+**qtd**: Quantidade
