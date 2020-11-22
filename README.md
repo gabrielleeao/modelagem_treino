@@ -22,3 +22,7 @@ A partir da ideia de um modelo transacional básico. Contrua um modelo multidime
 ### Medidas
 
 **qtd**: Quantidade
+
+#### Solução:
+
+![Resolução do Treino 1](https://github.com/gabrielleeao/modelagem_treino/blob/main/src/images/treino1.PNG)
