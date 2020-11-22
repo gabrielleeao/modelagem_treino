@@ -4,8 +4,6 @@
 Uma loja deseja analisar informações sobre suas mercadorias, filiais e fornecedores.
 A partir da ideia de um modelo transacional básico. Contrua um modelo multidimensional que atenda a demanda da loja.
 
-## Business Glossary
-
 ### Architecture
 
 **sk_**: Surrogate Key  
