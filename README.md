@@ -1,9 +1,26 @@
 # Treino de modelagem para o banco de dados.
 
-O primeiro modelo criado foi para o fornecimento de mercadorias utilizando como padrão o Star-Schema.
+# Treinamento 1
+Uma loja deseja analisar informações sobre suas mercadorias, filiais e fornecedores.
+A partir da ideia de um modelo transacional básico. Contrua um modelo multidimensional que atenda a demanda da loja.
 
 ## Business Glossary
 
+### Architecture
+
 **sk_**: Surrogate Key  
 **nk_**: Natural Key  
-**nm_**: Nome
+**nm_**: Nome  
+  
+### Dimensões  
+
+**nm_fornecedor**: Quem fornece o produto;
+**cidade_fornecedor**: A cidade em que o fornecedor se encontra;
+**uf_fornecedor**: O estado onde o fornecedor se encontra;
+**nm_mercadoria**: Nome do produto;
+**nm_filial**: Nome da fiial que vai receber o produto;
+
+
+### Medidas
+
+**qtd**: Quatidade
