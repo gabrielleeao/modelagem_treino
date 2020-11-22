@@ -4,6 +4,6 @@ O primeiro modelo criado foi para o fornecimento de mercadorias utilizando como 
 
 ## Business Glossary
 
-**\_sk**: Surrogate Key
-**\_nk**: Natural Key
-**\_nm**: Nome
+**\_sk**: Surrogate Key \n
+**\_nk**: Natural Key \n
+**\_nm**: Nome \n
